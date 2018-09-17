@@ -8,7 +8,5 @@ artifacts:
   files:
     - index.html
     - favicon.ico
-    - RobinNorwood-Resume.pdf
     - styles/main.css
     - images/*
-    
